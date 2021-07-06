@@ -1,4 +1,4 @@
-from keras.preprocessing import sequence
+from keras_preprocessing import sequence
 import json
 import numpy as np
 
